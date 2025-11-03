@@ -1,0 +1,13 @@
+{
+  "name": "unipayqr-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "tsx matchingService.ts",
+    "dev": "tsx watch matchingService.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "ethers": "^6.8.0",
+    "tsx": "^4.0.0"
+  }
+}
