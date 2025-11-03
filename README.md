@@ -1,4 +1,4 @@
-# 🚀 UniPayQR
+# UniPayQR
 
 **Pay Indian Merchants with Bitcoin-Backed mUSD - Seamlessly**
 
